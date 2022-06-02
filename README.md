@@ -1,3 +1,8 @@
 # jogo-da-memoria
 Desafio DIO - jogo da memória
-[](jogo-da-memoria/img/animcao.gif)
+
+Tecnologias utilizadas
+
+HTML, CSS e JavaScript.
+
+![Animação](/img/Animação.gif)
